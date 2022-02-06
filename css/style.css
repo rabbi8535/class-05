@@ -1,0 +1,25 @@
+*{
+    padding:opx;
+    margin: 0px;
+    background-color:rgba(15, 211, 211, 0.582) 
+   
+  
+}
+.forgot {
+text-decoration: none;
+}
+.same{
+    border-style: outset;
+    border-radius: 5px;
+
+}
+.form,.form2,.form3{
+    width: 438px;
+    border-radius: 20px;
+    padding-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
